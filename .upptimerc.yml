@@ -16,7 +16,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: voux-instances.fr0st.xyz
   # baseUrl: /voux-instances-uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/QuintixLabs/Voux/refs/heads/master/public/assets/logo.png
   name: Voux Instances
   introTitle: "Uptime for all the **Voux** instances"
   introMessage: This page shows the status of all [Voux](https://github.com/QuintixLabs/Voux) instance
