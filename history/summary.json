@@ -4,16 +4,16 @@
     "url": "https://voux.fr0st.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/voux.fr0st.xyz.ico",
     "slug": "voux-fr0st-xyz",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.67%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.65%",
     "time": 566,
-    "timeDay": 311,
-    "timeWeek": 508,
-    "timeMonth": 529,
+    "timeDay": 370,
+    "timeWeek": 506,
+    "timeMonth": 528,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2025-11-21": 166,
@@ -22,7 +22,8 @@
       "2025-12-21": 0,
       "2026-04-04": 214,
       "2026-04-06": 414,
-      "2026-07-26": 49
+      "2026-07-26": 49,
+      "2026-07-31": 53
     }
   }
 ]
